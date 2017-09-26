@@ -24,7 +24,6 @@ private Handler handler=new Handler(){
         if(what==1){
             String out= (String) msg.obj;
             Gson gson = new Gson();
-
         }
 
     }
